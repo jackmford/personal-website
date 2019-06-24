@@ -5,3 +5,19 @@
 #top-level{
     text-align: center;
 }
+
+a{
+    text-decoration: none;
+}
+html, body{
+    margin: 0;
+    height: 100%;
+}
+
+#contact{
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    padding: 7px;
+}
