@@ -1,21 +1,32 @@
-#github-tab{
-    display: inline-block;
-    margin-bottom: 15px;
-    text-align: right;
-}
-
 #top-level{
-    text-align: center;
+	text-align: center;
 }
-
+.col{
+	padding-right: 16px;
+	padding-left: 16px;
+}
+.mail-btn{
+	height: 30px;
+	width: 40px;
+	display: inline-block;
+  text-align: center;
+}
 a{
     text-decoration: none;
 }
 html, body{
+		font-family: "Courier New", Courier, monospace;
     margin: 0;
     height: 100%;
 }
-
+#mail-link{
+	position:relative;
+	right:25px;
+}
+#git-link{
+	position:relative;
+	right:7px;
+}
 #contact{
     border: none;
     cursor: pointer;
@@ -27,5 +38,20 @@ html, body{
 .imglink{
     height: 40px;
     width: 40px;
+		display: inline-block;
+  text-align: center;
+}
 
+hr{
+	width: 30%;
+}
+#name-header{
+	font-weight: bold;
+  text-align: center;
+}
+#title-header{
+  text-align: center;
+}
+#hi{
+	margin-right:0px;
 }
