@@ -1,4 +1,6 @@
 #github-tab{
+    display: inline-block;
+    margin-bottom: 15px;
     text-align: right;
 }
 
@@ -20,4 +22,10 @@ html, body{
     text-transform: uppercase;
     border-radius: 5px;
     padding: 7px;
+}
+
+.imglink{
+    height: 40px;
+    width: 40px;
+
 }
