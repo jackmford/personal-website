@@ -1,5 +1,12 @@
 #top-level{
 	text-align: center;
+	margin-top: 50px;
+}
+#res{
+	text-align: center;
+}
+#top{
+	width: 100%;
 }
 .col{
 	padding-right: 16px;
