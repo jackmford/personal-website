@@ -2,6 +2,36 @@
 	text-align: center;
 	margin-top: 50px;
 }
+.proj-p-title{
+  padding:10px;
+  margin: 0px;
+}
+.proj-p-des{
+  margin: 0px;
+  padding:10px;
+}
+.proj-row{
+  border: 0.15px solid #c8c8c8;
+}
+#proj-desc-container{
+  margin-top: 25px;
+  width: 50%;
+}
+#proj-container{
+  margin-top: 50px;
+}
+#projs{
+  text-align: center;
+}
+#proj-title{
+	font-weight: bold;
+}
+.project-des{
+  text-align: center;
+}
+.project-exp{
+  text-align: left;
+}
 #res{
 	text-align: center;
 }
@@ -28,11 +58,11 @@ html, body{
 }
 #mail-link{
 	position:relative;
-	right:25px;
+	right:13px;
 }
 #git-link{
 	position:relative;
-	right:7px;
+	right:0px;
 }
 #contact{
     border: none;
@@ -61,4 +91,5 @@ hr{
 }
 #hi{
 	margin-right:0px;
+  text-align: center;
 }
