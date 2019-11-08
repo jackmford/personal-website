@@ -2,6 +2,16 @@
 	text-align: center;
 	margin-top: 50px;
 }
+#linked-link{
+	position:relative;
+	left:13px;
+}
+.linked-btn{
+	height: 30px;
+	width: 40px;
+	display: inline-block;
+  text-align: center;
+}
 .proj-p-title{
   padding:10px;
   margin: 0px;
@@ -62,7 +72,6 @@ html, body{
 }
 #git-link{
 	position:relative;
-	left:13px;
 }
 #contact{
     border: none;
