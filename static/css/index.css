@@ -4,7 +4,15 @@
 }
 .navbar{
   height: 72px;
-  background-color: #87A96B;
+  /*background-color: #87A96B;*/
+  background-color: #BDB76B;
+
+}
+#prof-pic{
+display: inline-block;
+text-align: center;
+width: 150px;
+height: 150px;
 }
 #total-cont{
   background-color: #FAF0BE;
