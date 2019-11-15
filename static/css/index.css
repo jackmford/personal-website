@@ -19,7 +19,9 @@ height: 150px;
 }
 .proj-p-title{
 padding:10px;
-margin: 0px;
+margin-top: 84px;
+margin-bottom: 0px;
+font-weight: bold;
 }
 #linked-link{
 position:relative;
@@ -79,7 +81,7 @@ a{
   text-decoration: none;
 }
 html, body{
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Courier New", Courier, monospace;*/
 margin: 0;
 height: 100%;
 }
