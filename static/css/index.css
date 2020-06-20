@@ -1,6 +1,7 @@
 #top-level{
   text-align: center;
-  margin-top: 50px;
+  margin-top: 100px;
+	margin-bottom: 75px;
 }
 .navbar{
   height: 72px;
@@ -16,12 +17,13 @@ height: 150px;
 }
 #total-cont{
   background-color: #FAF0BE;
+	padding-bottom: 50px;
 }
 .proj-p-title{
 padding:10px;
-margin-top: 84px;
-margin-bottom: 0px;
 font-weight: bold;
+margin: 0px;
+margin-top:16%;
 }
 #linked-link{
 position:relative;
@@ -39,6 +41,7 @@ padding:10px;
 }
 .proj-row{
 border: 0.15px solid #c8c8c8;
+margin-bottom: 10px;
 }
 #proj-desc-container{
   margin-top: 25px;
@@ -55,6 +58,7 @@ width: 55%;
 }
 .project-des{
   text-align: center;
+	align-items: center;
 }
 .project-exp{
   text-align: left;
