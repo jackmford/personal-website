@@ -1,0 +1,121 @@
+#top-level{
+  text-align: center;
+  margin-top: 50px;
+}
+.navbar{
+  height: 72px;
+  /*background-color: #87A96B;*/
+  background-color: #BDB76B;
+
+}
+#prof-pic{
+display: inline-block;
+text-align: center;
+width: 150px;
+height: 150px;
+}
+#total-cont{
+  background-color: #FAF0BE;
+}
+.proj-p-title{
+padding:10px;
+margin: 0px;
+}
+#linked-link{
+position:relative;
+left:13px;
+}
+.linked-btn{
+height: 33px;
+width: 40px;
+display: inline-block;
+text-align: center;
+}
+.proj-p-des{
+margin: 0px;
+padding:10px;
+}
+.proj-row{
+border: 0.15px solid #c8c8c8;
+}
+#proj-desc-container{
+  margin-top: 25px;
+width: 55%;
+}
+#proj-container{
+  margin-top: 50px;
+}
+#projs{
+  text-align: center;
+}
+#proj-title{
+  font-weight: bold;
+}
+.project-des{
+  text-align: center;
+}
+.project-exp{
+  text-align: left;
+}
+#res{
+  text-align: center;
+}
+#top{
+width: 100%;
+margin: 0px;
+border-color: black;
+}
+.col{
+  padding-right: 16px;
+  padding-left: 16px;
+}
+.mail-btn{
+height: 30px;
+width: 40px;
+display: inline-block;
+         text-align: center;
+}
+a{
+  text-decoration: none;
+}
+html, body{
+  font-family: "Courier New", Courier, monospace;
+margin: 0;
+height: 100%;
+}
+#mail-link{
+position:relative;
+right:13px;
+}
+#git-link{
+position:relative;
+}
+#contact{
+border: none;
+cursor: pointer;
+        text-transform: uppercase;
+        border-radius: 5px;
+padding: 7px;
+}
+
+.git-btn{
+height: 40px;
+width: 40px;
+display: inline-block;
+text-align: center;
+}
+
+hr{
+width: 30%;
+}
+#name-header{
+  font-weight: bold;
+  text-align: center;
+}
+#title-header{
+  text-align: center;
+}
+#hi{
+  margin-right:0px;
+  text-align: center;
+}
