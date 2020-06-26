@@ -15,8 +15,9 @@
 }
 .navbar{
   height: 72px;
-  /*background-color: #87A96B;*/
-  background-color: #BDB76B;
+  /*background-color: #ffffff;*/
+  /*background-color: #FAF0BE;*/
+  background-color: #f3e5ab;
 
 }
 .right-btn{
@@ -29,7 +30,9 @@
 	height: 150px;
 }
 #total-cont{
-  background-color: #FAF0BE;
+  /*background-color: #FAF0BE;*/
+  /*background-color: #ffffff;*/
+  background-color: #fafad2;
 	padding-bottom: 50px;
 }
 .proj-p-title{
