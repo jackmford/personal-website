@@ -29,11 +29,31 @@
 	width: 150px;
 	height: 150px;
 }
+#headshot{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	display: block;
+	border: 10px solid #f3e5ab;
+}
 #total-cont{
   /*background-color: #FAF0BE;*/
   /*background-color: #ffffff;*/
   background-color: #fafad2;
 	padding-bottom: 50px;
+}
+.aboutme-title{
+	margin-top: 40px;
+	text-align: center;
+	width: 393px;
+	padding: 0px;
+}
+.aboutme-desc{
+	text-align: left;
+	width: 562px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 .proj-p-title{
 	padding:10px;
