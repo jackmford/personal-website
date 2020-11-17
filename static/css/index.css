@@ -103,6 +103,10 @@ html, body{
   font-family: "Courier New", Courier, monospace;*/
 	margin: 0;
 	height: 100%;
+	width: 100%;
+}
+body{
+  background-color: #fafad2;
 }
 #mail-link{
 	position:relative;
