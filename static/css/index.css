@@ -44,22 +44,28 @@
 }
 .aboutme-title{
 	margin-top: 40px;
-	text-align: center;
-	width: 393px;
+	text-align: left;
+	/*width: 393px;*/
+	width: 562px;
 	padding: 0px;
 }
 .aboutme-desc{
 	text-align: left;
+	margin-top: 25px;
+	padding: 0px;
 	width: 562px;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
 }
 .proj-p-title{
+	font-size: 18px;
 	padding:10px;
 	font-weight: bold;
-	margin: 0px;
-	margin-top:16%;
+	/*margin: 0px;*/
+	/*margin-top:16%;*/
+	margin-top: auto;
+	margin-bottom: auto;
 }
 #linked-link{
 	position:relative;
@@ -77,6 +83,9 @@
 }
 .proj-row{
 	border: 0.15px solid #c8c8c8;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 #proj-desc-container{
   margin-top: 25px;
