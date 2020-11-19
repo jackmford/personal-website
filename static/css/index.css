@@ -17,8 +17,8 @@
   height: 72px;
   /*background-color: #ffffff;*/
   /*background-color: #FAF0BE;*/
-  background-color: #f3e5ab;
-
+  /*background-color: #f3e5ab;*/
+	background-color: #81b29a;
 }
 .right-btn{
 	margin-right: 16px;
@@ -34,12 +34,13 @@
 	margin-right: auto;
 	margin-top: 30px;
 	display: block;
-	border: 10px solid #f3e5ab;
+	border: 10px solid #81b29a;
 }
 #total-cont{
   /*background-color: #FAF0BE;*/
   /*background-color: #ffffff;*/
-  background-color: #fafad2;
+  /*background-color: #fafad2;*/
+	background-color: #f4f1de;
 	padding-bottom: 50px;
 }
 .aboutme-title{
@@ -135,7 +136,8 @@ html, body{
 	width: 100%;
 }
 body{
-  background-color: #fafad2;
+  /*background-color: #fafad2;*/
+	background-color: #f4f1de;
 }
 #mail-link{
 	position:relative;
